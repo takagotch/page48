@@ -15,7 +15,7 @@ permalink:        /blog/:year/:month/:day/:title/
 
 # Server
 url:               https://takagotch.github.io/page48/
-enforce_ssl:       startbootstrap.com
+enforce_ssl:       https://takagotch.github.io/
 encoding:          UTF-8
 host:              localhost
 port:              9000
