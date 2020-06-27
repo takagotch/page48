@@ -4,7 +4,7 @@ license-url:       "https://github.com/takagotch//LICENSE"
 author:            "Blackrock Digital"
 
 # Site Settings
-baseurl:           "/page48"
+baseurl:           ""
 
 # Build settings
 markdown:          kramdown
@@ -14,7 +14,7 @@ exclude:           [node_modules]
 permalink:        /blog/:year/:month/:day/:title/
 
 # Server
-url:               "https://takagotch.github.io"
+url:               "https://takagotch.github.io/page48"
 enforce_ssl:       https://takagotch.github.io/
 encoding:          UTF-8
 host:              localhost
