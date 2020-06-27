@@ -14,7 +14,7 @@ exclude:           [node_modules]
 permalink:        /blog/:year/:month/:day/:title/
 
 # Server
-url:               "https://takagotch.github.io/page48/"
+url:               "https://takagotch.github.io"
 enforce_ssl:       https://takagotch.github.io/
 encoding:          UTF-8
 host:              localhost
